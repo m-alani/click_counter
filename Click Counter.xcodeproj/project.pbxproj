@@ -12,6 +12,7 @@
 		E0D521EE1E5E5FA700C90AAE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0D521EC1E5E5FA700C90AAE /* Main.storyboard */; };
 		E0D521F01E5E5FA700C90AAE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E0D521EF1E5E5FA700C90AAE /* Assets.xcassets */; };
 		E0D521F31E5E5FA700C90AAE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0D521F11E5E5FA700C90AAE /* LaunchScreen.storyboard */; };
+		E0D521FB1E5E608C00C90AAE /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = E0D521FA1E5E608C00C90AAE /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E0D521EF1E5E5FA700C90AAE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E0D521F21E5E5FA700C90AAE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E0D521F41E5E5FA700C90AAE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0D521FA1E5E608C00C90AAE /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		E0D521DC1E5E5FA600C90AAE = {
 			isa = PBXGroup;
 			children = (
+				E0D521FA1E5E608C00C90AAE /* README.md */,
 				E0D521E71E5E5FA700C90AAE /* Click Counter */,
 				E0D521E61E5E5FA700C90AAE /* Products */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E0D521FB1E5E608C00C90AAE /* README.md in Sources */,
 				E0D521EB1E5E5FA700C90AAE /* ViewController.swift in Sources */,
 				E0D521E91E5E5FA700C90AAE /* AppDelegate.swift in Sources */,
 			);
